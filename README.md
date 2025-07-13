@@ -11,3 +11,5 @@ Tech Stack
 --
 Html, css, Js
 Bootstrap, JQuery
+Php
+MySQL
