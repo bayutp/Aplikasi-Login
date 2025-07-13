@@ -12,3 +12,9 @@ Tech Stack
 1. Html, css, Js
 2. Bootstrap, JQuery
 3. Php & MySQL
+
+Tools
+--
+1. Jira
+2. Figma
+3. Github
