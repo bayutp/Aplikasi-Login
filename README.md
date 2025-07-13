@@ -14,6 +14,7 @@ Tech Stack
 3. Php & MySQL
 
 Tools
-Jira
-Figma
-Github
+--
+1. Jira
+2. Figma
+3. Github
