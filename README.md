@@ -1,5 +1,5 @@
-# Aplikasi-Login
-Sebuah aplikasi dengan fitur login
+# Aplikasi Login
+Sebuah aplikasi berbasis web dengan fitur login
 
 Alur Fitur Login
 --
@@ -9,4 +9,6 @@ Alur Fitur Login
 
 Tech Stack
 --
-Html, css, Js
+1. Html, css, Js
+2. Bootstrap, JQuery
+3. Php & MySQL
